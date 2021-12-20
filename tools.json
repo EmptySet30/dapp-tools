@@ -202,5 +202,14 @@
                 }
             ]
         }
+      {
+    "slug": "splinterlands",    
+    "tools": [
+        {
+            "title": "Card Reference",
+            "url": "https://splintercards.com/cards.html",
+            "image": "https://splintercards.com/media/logo-splinterlands-characters.png",
+            "description": "Explore all cards in the Splinterlands",
+        },
     ]
 }
